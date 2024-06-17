@@ -7,6 +7,7 @@ NAMA ANGGOTA :
 - SALSABILA FAIHA PUTERI (2010512138)
 
 Kelompok kami menggunakan framework Bootstrap v5.0 dan Laravel-8
+
 Desain aplikasi menggunakan Figma pada link https://www.figma.com/design/5nxuXQSqOBd7bj8T25K8nn/Pet-Rescue?node-id=0-1&t=Qe3zugzBozrW8DH0-1
 
 Cara menjalankan program dengan menggunakan composer dan gitbash.
